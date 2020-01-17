@@ -1,11 +1,11 @@
 # Site settings
-author: Matthew Jones
-title: 
+author: Matthew Jones 
+title: From Rags to Ruby
 header-img: img/home-bg.png
 email: matts3371@gmail.com
-copyright_name: Matthew Jones
+copyright_name: Matthew Jones 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Flatiron Experience
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Red-Trinket
