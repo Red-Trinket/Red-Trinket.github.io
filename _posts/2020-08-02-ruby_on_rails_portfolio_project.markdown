@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Ruby on Rails Portfolio Project"
-date:       2020-08-02 14:34:46 +0000
+date:       2020-08-02 10:34:47 -0400
 permalink:  ruby_on_rails_portfolio_project
 ---
 
 
 The Ruby on Rails project was definitely the most challenging part of my experience as a Flatiron student thus far. It pushed me in a lot of different ways and tested my discipline as a student and skill as a coder. The main challenges that manifested over the course of the weeks that I spent working on the project were keeping all of the one-to-many and many-to-many relationships organized as I developed the app and setting out Oauth to allow the user to log in through an outside source, in this case, Facebook.
 
-First, I want to talk about the mistakes I made that allowed this project to be more challenging than it should have been. I talked about how confusing the object relationships would get, and all of that could have been solved by better project planning. When I started to work on my app, I just jumped straight into the code. I didn't take the time to map out all of the different relationships like I should have, instead thinking "it's not that hard, I'll figure it out as I go."![This is what my chart looked like.](https://imgur.com/a/5uMg4cAhttp://)
+First, I want to talk about the mistakes I made that allowed this project to be more challenging than it should have been. I talked about how confusing the object relationships would get, and all of that could have been solved by better project planning. When I started to work on my app, I just jumped straight into the code. I didn't take the time to map out all of the different relationships like I should have, instead thinking "it's not that hard, I'll figure it out as I go."![This is what my chart looked like.](https://imgur.com/a/5uMg4cA)
 
 Needless to say, the first thing that I learned is that proper planning is essential when starting a new project, even if it seems simple at the time. Keeping your files clearly organized and properly named will go a long way toward making it easier for you to work on your code again after putting it down for a couple days, and will be the only thing that makes it possible for someone new to look at it and understand what you're doing. 
 
