@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using a Rails API With Javascript"
-date:       2021-02-12 18:22:54 +0000
+date:       2021-02-12 13:22:56 -0500
 permalink:  using_a_rails_api_with_javascript
 ---
 
